@@ -148,6 +148,9 @@ data analysis, dashboard development, data visualization, performance
 monitoring, and translating analytical findings into actionable
 management recommendations.
 
+## 11. Dashboard Preview
+
+![Food and Beverage Sales Dashboard](Screenshots/Dashboard%20Screen%20Shot.JPG)
 ------------------------------------------------------------------------
 
 *Note: The sales figures and observations in this README are based on
